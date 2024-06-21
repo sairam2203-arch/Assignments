@@ -1,0 +1,36 @@
+1. Create a New Branch:
+   - First, switch to the `master` branch:
+     
+     git checkout master
+     
+   - Then create a new branch (let's call it `new-feature`):
+     
+     git branch new-feature
+     
+
+2. Make Commits in the New Branch:
+   - Switch to the new branch:
+     
+     git checkout new-feature
+     
+   - Develop your code, make changes, and commit them:
+     
+     git add .
+     git commit -m "Your commit message"
+     
+
+3. Merge the New Branch into Master:
+   - Switch back to the `master` branch:
+     
+     git checkout master
+     
+   - Merge the changes from `new-feature` into `master`:
+     
+     git merge new-feature
+     
+
+4. Push Changes to Remote Repository (Optional):
+   - If you're ready to share your changes, push them to the remote repository:
+     
+     git push origin master
+     
