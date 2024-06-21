@@ -1,0 +1,75 @@
+
+                             Git Commands
+
+1. git config: Set up Git configuration options such as user information.
+
+ 
+2. git init: Initialize a new Git repository.
+
+ 
+3. git clone: Clone a repository into a new directory.
+
+  
+4. git add: Add file contents to the index (staging area).
+  
+
+5. git status: Show the working tree status.
+
+
+6. git diff: Show changes between commits, commit and working tree, etc.
+
+
+7. git commit: Record changes to the repository.
+
+
+8. git branch: List, create, or delete branches.
+
+
+9. git checkout: Switch branches or restore working tree files.
+
+ 
+10. git merge: Join two or more development histories together.
+
+
+11. git remote: Manage set of tracked repositories.
+ 
+
+12. git fetch: Download objects and refs from another repository.
+
+
+13. git pull: Fetch from and integrate with another repository or a local branch.
+
+
+14. git push: Update remote refs along with associated objects.
+
+   
+15. git reset: Reset current HEAD to the specified state.
+
+
+16. git revert: Revert some existing commits.
+
+
+17. git stash: Stash the changes in a dirty working directory away.
+
+
+18. git log: Show commit logs.
+
+
+19. git show: Show various types of objects (e.g., commits, tags).
+
+
+20. git blame: Show what revision and author last modified each line of a file.
+
+
+21. git submodule: Initialize, update, or inspect submodules.
+
+
+22. git cherry-pick: Apply the changes introduced by some existing commits.
+
+
+23. git rebase: Reapply commits on top of another base tip.
+
+   
+
+24. git tag: Create, list, delete or verify a tag object signed with GPG.
+

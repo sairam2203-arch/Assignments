@@ -1,0 +1,7 @@
+In Scrum, there are three key roles that make up the Scrum team:
+1. **Scrum Master**: The scrum master's role is to maximize value by ensuring everyone follows the Scrum methodology correctly. They facilitate Scrum events (like daily stand-ups, sprint planning, and retrospectives), remove impediments, and promote self-organization within the team².
+
+2. **Product Owner**: The product owner is responsible for maximizing value by ensuring the team works on the most valuable items. They prioritize the product backlog, define user stories, and provide clear requirements to the development team. Essentially, they act as the bridge between stakeholders and the development team¹.
+
+3. **Developers (Development Team)**: This group includes individuals who do the actual work. Contrary to the name, it's not limited to just engineers. Designers, writers, programmers, and other skilled team members fall under this category. Their primary responsibility is to create value by delivering the product increment during each sprint¹.
+

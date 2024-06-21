@@ -1,0 +1,11 @@
+Good Morning team, lets starts the daily stand up meeting,
+      keep the update short and clear, 
+      And plan for the today's task, 
+      for any blocker let us know here, 
+      lets start the update with ramesh,
+Sairam :  Yesterday I have worked on seat selection of movie booking, 
+        Today I will work on ticket booking
+        I don't have any blocker.
+
+Scrum master: Thank you all for the update,for any issue are challenge 
+             please wait in the meeting for clearity. 

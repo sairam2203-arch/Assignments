@@ -1,0 +1,14 @@
+             Difference between absolute and relative paths in Linux:
+
+1. **Absolute Path**:
+   - An absolute path always starts from the **root directory (/)**.
+   - It provides the **exact location** of a file or directory in the entire directory structure.
+   - For example: `/home/abhishek/scripts/my_script.sh`.
+   - The first slash (`/`) denotes the root, and subsequent slashes separate directories.
+   - Absolute paths are consistent regardless of the current working directory.
+
+2. **Relative Path**:
+   - A relative path starts from the **current directory**.
+   - It describes the position of a file or directory **relative to where you are**.
+   - For instance, if you're in the `/home` directory and want to access `my_script.sh`, you can use `abhishek/scripts/my_script.sh`.
+   - Relative paths are context-dependent and change based on your location.

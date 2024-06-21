@@ -1,0 +1,13 @@
+     
+
+a. touch Movies/demo.txt
+
+b. cp Desktop/hello.txt Downloads/
+
+c. ls Movies/
+
+d. head -15 Movies/demo.txt
+
+e. cat > Movies/new_file.txt
+
+f.  cat Movies/demo.txt

@@ -1,0 +1,32 @@
+Essential 30 linux commands
+
+1. `ls`: List files and directories.
+2. `pwd`: Print the current working directory.
+3. `cd`: Change directory.
+4. `mkdir`: Create a new directory.
+5. `mv`: Move or rename files/directories.
+6. `cp`: Copy files/directories.
+7. `rm`: Remove files/directories.
+8. `touch`: Create empty files.
+9. `ln`: Create symbolic links.
+10. `clear`: Clear the terminal screen.
+11. `cat`: Display file contents.
+12. `echo`: Print text to the terminal.
+13. `less`: Display paged output.
+14. `man`: Access manual pages.
+15. `uname`: Get OS information.
+16. `whoami`: Display active username.
+17. `tar`: Extract/compress files.
+18. `grep`: Search for strings.
+19. `head`: Show top lines of a file.
+20. `tail`: Show bottom lines of a file.
+21. `diff`: Compare two files.
+22. `cmp`: Check if files are identical.
+23. `sort`: Sort file content.
+24. `export`: Set environment variables.
+25. `zip`: Compress files.
+26. `unzip`: Extract zip files.
+27. `ssh`: Secure Shell for remote access.
+28. `ps`: Display active processes.
+29. `kill` and `killall`: Terminate processes.
+30. `df`: Show disk usage.
